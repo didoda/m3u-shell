@@ -1,8 +1,6 @@
-# M3u Shell
+![image](https://img.shields.io/badge/Shell-B238AC?style=for-the-badge&logo=m3ushell&logoColor=white)
 
-![image](https://img.shields.io/badge/Shell-B238AC?style=for-the-badge&logoColor=white)
-
-A bash script to create m3u files parsing a folders tree of audio files
+A bash script to create m3u files parsing a folders tree of audio files.
 
 ## Usage
 
